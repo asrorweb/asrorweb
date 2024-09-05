@@ -1,4 +1,8 @@
-# 💫 About Me:
+# 👋 Hi, I'm Asror Frontend developer
+
+<h3>💼 My portfolio <a href="https://asror-turdaliyev.netlify.app/">asror-turdaliyev</a></h3>
+
+<h3>💫 About Me:</h3>
 🔭 Men hozirda CRM loyihasi ustida ishlayapman<br>⏳ Men ish qidiryapman<br>🌱 Men hozir TypeScript-ni o'rganyapman<br>💬 Mendan so'rang
 
 
